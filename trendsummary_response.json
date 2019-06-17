@@ -1,0 +1,104 @@
+{
+    "complaints": {
+        "trendingtopics": [
+            {
+                "score": 0.2800000011920929,
+                "risklevel": "MEDIUM",
+                "numberofcomplaints": 121,
+                "direction": 1,
+                "trendid": 1,
+                "channels": [
+                    1
+                ],
+                "startdate": "05/25/2017",
+                "maxage": 60,
+                "minage": 50,
+                "maxincome": 50000,
+                "minincome": 30000,
+                "race": "abc NA",
+                "timeperiod": 30,
+                "description": "THEME:Complaint_BurdensomeRequest&PRODUCT:Mortgage&CUSTOMER_AGE:50-60&GEO:FL",
+                "geo": [
+                    "FL"
+                ],
+                "product": "Mortgage",
+                "type": "Complaint BurdensomeRequest in FL ( Age Group: 50-60 )",
+                "trendinglast7days": "+199.56%",
+                "trendinglast30days": "+84.91%"
+            },
+            {
+                "score": 0.2800000011920929,
+                "risklevel": "MEDIUM",
+                "numberofcomplaints": 26,
+                "direction": 1,
+                "trendid": 2,
+                "channels": [
+                    1
+                ],
+                "startdate": "06/11/2017",
+                "maxincome": 50000,
+                "minincome": 30000,
+                "race": "abc NA",
+                "timeperiod": 30,
+                "description": "THEME:Complaint_BurdensomeRequest&SUB_THEME:Process_closing&PRODUCT:Mortgage&GEO:CA",
+                "geo": [
+                    "CA"
+                ],
+                "product": "Mortgage",
+                "type": "Complaint BurdensomeRequest for Process closing in CA",
+                "trendinglast7days": "+271.0%",
+                "trendinglast30days": "+271.0%"
+            },
+            {
+                "score": 0.3199999928474426,
+                "risklevel": "LOW",
+                "numberofcomplaints": 150,
+                "direction": 1,
+                "trendid": 3,
+                "channels": [
+                    1
+                ],
+                "startdate": "06/07/2017",
+                "maxage": 30,
+                "minage": 0,
+                "maxincome": 50000,
+                "minincome": 30000,
+                "race": "abc NA",
+                "timeperiod": 30,
+                "description": "THEME:Complaint_Responsiveness&PRODUCT:Mortgage&CUSTOMER_AGE:0-30&GEO:DC",
+                "geo": [
+                    "DC"
+                ],
+                "product": "Mortgage",
+                "type": "Complaint Responsiveness in DC ( Age Group: 0-30 )",
+                "trendinglast7days": "+152.33%",
+                "trendinglast30days": "+104.04%"
+            },
+            {
+                "score": 0.20000000298023224,
+                "risklevel": "HIGH",
+                "numberofcomplaints": 234,
+                "direction": 1,
+                "trendid": 4,
+                "channels": [
+                    1
+                ],
+                "startdate": "06/04/2017",
+                "maxage": 40,
+                "minage": 30,
+                "maxincome": 50000,
+                "minincome": 30000,
+                "race": "abc NA",
+                "timeperiod": 30,
+                "description": "THEME:Complaint_SalesPractice&PRODUCT:Mortgage&CUSTOMER_AGE:30-40&GEO:CA",
+                "geo": [
+                    "CA"
+                ],
+                "product": "Mortgage",
+                "type": "Complaint SalesPractice in CA ( Age Group: 30-40 )",
+                "trendinglast7days": "+114.33%",
+                "trendinglast30days": "+143.1%"
+            }
+        ]
+    }
+}
